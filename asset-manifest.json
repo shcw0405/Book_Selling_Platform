@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/booksale-app/static/css/main.3d2a24cd.css",
-    "main.js": "/booksale-app/static/js/main.cc94cd12.js",
+    "main.js": "/booksale-app/static/js/main.fe49da07.js",
     "index.html": "/booksale-app/index.html",
     "main.3d2a24cd.css.map": "/booksale-app/static/css/main.3d2a24cd.css.map",
-    "main.cc94cd12.js.map": "/booksale-app/static/js/main.cc94cd12.js.map"
+    "main.fe49da07.js.map": "/booksale-app/static/js/main.fe49da07.js.map"
   },
   "entrypoints": [
     "static/css/main.3d2a24cd.css",
-    "static/js/main.cc94cd12.js"
+    "static/js/main.fe49da07.js"
   ]
 }
