@@ -54,15 +54,6 @@
     "note": "pdd影印版"
   },
   {
-    "id": 7,
-    "name": "算法 橙书 第四版",
-    "price": 20,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0753.jpeg",
-    "note": ""
-  },
-  {
     "id": 8,
     "name": "随机数学",
     "price": 5,
@@ -78,24 +69,6 @@
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0755.jpeg",
-    "note": ""
-  },
-  {
-    "id": 10,
-    "name": "深入理解计算机系统 大黑书",
-    "price": 15,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0756.jpeg",
-    "note": "影印版"
-  },
-  {
-    "id": 11,
-    "name": "算法导论 大黑书",
-    "price": 15,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0757.jpeg",
     "note": ""
   },
   {
@@ -279,30 +252,12 @@
     "note": ""
   },
   {
-    "id": 32,
-    "name": "知识图谱概念与技术",
-    "price": 15,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0779.jpeg",
-    "note": ""
-  },
-  {
     "id": 33,
     "name": "大话数据结构",
     "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0780.jpeg",
-    "note": ""
-  },
-  {
-    "id": 34,
-    "name": "自我突围 施一公 亲笔签名版",
-    "price": 50,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0781.jpeg",
     "note": ""
   },
   {
@@ -423,30 +378,12 @@
     "note": ""
   },
   {
-    "id": 48,
-    "name": "算法笔记 上机训练实战指南",
-    "price": 10,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0796.jpeg",
-    "note": ""
-  },
-  {
     "id": 49,
     "name": "计算机硬件系统设计原理",
     "price": 5,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0797.jpeg",
-    "note": ""
-  },
-  {
-    "id": 50,
-    "name": "自然语言处理",
-    "price": 15,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0798.jpeg",
     "note": ""
   },
   {
@@ -475,15 +412,6 @@
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0801.jpeg",
     "note": "影印版"
-  },
-  {
-    "id": 54,
-    "name": "算法笔记",
-    "price": 10,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0802.jpeg",
-    "note": ""
   },
   {
     "id": 55,
