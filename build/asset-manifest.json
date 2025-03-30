@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/booksale-app/static/css/main.3d2a24cd.css",
+    "main.js": "/booksale-app/static/js/main.e90024ce.js",
+    "index.html": "/booksale-app/index.html",
+    "main.3d2a24cd.css.map": "/booksale-app/static/css/main.3d2a24cd.css.map",
+    "main.e90024ce.js.map": "/booksale-app/static/js/main.e90024ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d2a24cd.css",
+    "static/js/main.e90024ce.js"
+  ]
+}

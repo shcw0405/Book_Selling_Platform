@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "线性代数 第三版",
+    "price": 5,
+    "owner": "蔡旭",
+    "contact": "qq：1026343326",
+    "imageUrl": "/image/xianxing.jpeg",
+    "note": "全新，未拆封"
+  },
+  {
+    "id": 2,
+    "name": "计算机网络（第7版）",
+    "price": 45,
+    "owner": "李同学",
+    "contact": "QQ: 123456789",
+    "imageUrl": "https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "note": "9成新，有少量笔记"
+  },
+  {
+    "id": 3,
+    "name": "数据结构与算法分析",
+    "price": 38.5,
+    "owner": "王同学",
+    "contact": "电话: 135****7890",
+    "imageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "note": "8成新，有部分重点标注"
+  },
+  {
+    "id": 4,
+    "name": "操作系统概念",
+    "price": 65,
+    "owner": "赵同学",
+    "contact": "微信: zhao_os",
+    "imageUrl": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "note": "全新，只翻阅过"
+  },
+  {
+    "id": 5,
+    "name": "Python编程：从入门到实践",
+    "price": 42,
+    "owner": "孙同学",
+    "contact": "QQ: 987654321",
+    "imageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+  },
+  {
+    "id": 6,
+    "name": "数据库系统概念",
+    "price": 58,
+    "owner": "刘同学",
+    "contact": "微信: liu_db",
+    "imageUrl": "https://images.unsplash.com/photo-1575709527142-a93ed587bb83?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "note": "9.5成新，无笔记"
+  },
+  {
+    "id": 7,
+    "name": "编译原理",
+    "price": 47.5,
+    "owner": "周同学",
+    "contact": "电话: 137****8765",
+    "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "note": "7成新，包含课堂笔记"
+  },
+  {
+    "id": 8,
+    "name": "算法导论",
+    "price": 78,
+    "owner": "陈同学",
+    "contact": "微信: chen_algo",
+    "imageUrl": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "note": "8.5成新，附赠课后习题解答"
+  }
+]
