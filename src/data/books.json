@@ -6,15 +6,132 @@
     "owner": "蔡旭",
     "contact": "qq：1026343326",
     "imageUrl": "/Book_Selling_Platform/image/xianxing.jpeg",
-    "note": "全新，未拆封"
+    "note": ""
   },
   {
     "id": 2,
-    "name": "计算机网络（第7版）",
-    "price": 45,
-    "owner": "李同学",
-    "contact": "QQ: 123456789",
+    "name": "微积分学习指导 下册",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0748.jpeg",
+    "note": ""
+  },
+  {
+    "id": 3,
+    "name": "微积分下册 第四版",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0749.jpeg",
+    "note": ""
+  },
+  {
+    "id": 4,
+    "name": "UNIX初级教程 第五版",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0750.jpeg",
+    "note": ""
+  },
+  {
+    "id": 5,
+    "name": "算法竞赛进阶指南",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0751.jpeg",
+    "note": ""
+  },
+  {
+    "id": 6,
+    "name": "算法竞赛 入门经典 第二版",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0752.jpeg",
+    "note": ""
+  },
+  {
+    "id": 7,
+    "name": "算法 橙书 第四版",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0753.jpeg",
+    "note": ""
+  },
+  {
+    "id": 8,
+    "name": "随机数学",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0754.jpeg",
+    "note": ""
+  },
+  {
+    "id": 9,
+    "name": "现代操作系统 大黑书",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0755.jpeg",
+    "note": ""
+  },
+  {
+    "id": 10,
+    "name": "深入理解计算机系统 大黑书",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0756.jpeg",
+    "note": "影印版"
+  },
+  {
+    "id": 11,
+    "name": "算法导论 大黑书",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0757.jpeg",
+    "note": ""
+  },
+  {
+    "id": 12,
+    "name": "数据库课堂笔记",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0758.jpeg",
+    "note": ""
+  },
+  {
+    "id": 13,
+    "name": "组合数学 考试题",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0759.jpeg",
+    "note": ""
+  },
+  {
+    "id": 14,
+    "name": "微积分AB下册教材习题详解 2022版 解忧",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
+    "imageUrl": "/Book_Selling_Platform/image/IMG_0760.jpeg",
+    "note": ""
+  },
+  {
+    "id": 15,
+    "name": "npo",
+    "price": 5,
+    "owner": "少华从文",
+    "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/xianxing.jpeg",
-    "note": "9成新，有少量笔记"
+    "note": ""
   }
 ]
