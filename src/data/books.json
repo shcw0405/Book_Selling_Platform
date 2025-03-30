@@ -5,7 +5,7 @@
     "price": 5,
     "owner": "蔡旭",
     "contact": "qq：1026343326",
-    "imageUrl": "/image/xianxing.jpeg",
+    "imageUrl": "/Book_Selling_Platform/image/xianxing.jpeg",
     "note": "全新，未拆封"
   },
   {
@@ -14,7 +14,7 @@
     "price": 45,
     "owner": "李同学",
     "contact": "QQ: 123456789",
-    "imageUrl": "/image/xianxing.jpeg",
+    "imageUrl": "/Book_Selling_Platform/image/xianxing.jpeg",
     "note": "9成新，有少量笔记"
   }
 ]

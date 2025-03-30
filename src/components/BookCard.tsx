@@ -8,16 +8,12 @@ interface BookCardProps {
 const BookCard: React.FC<BookCardProps> = ({ book }) => {
   // 处理图片路径
   const getImageSrc = (url: string) => {
-    // 检查是否为本地图片（以/开头但不是http开头）
-    if (url.startsWith("/") && !url.startsWith("http")) {
-      // 如果是开发环境
-      if (process.env.NODE_ENV === "development") {
-        return `${process.env.PUBLIC_URL}${url}`;
-      }
-      // 如果是生产环境，直接使用相对路径
+    // 如果是完整URL(http或https开头)，直接返回
+    if (url.startsWith("http")) {
       return url;
     }
-    // 如果是完整URL，直接返回
+
+    // 对于相对路径，保持不变
     return url;
   };
 
