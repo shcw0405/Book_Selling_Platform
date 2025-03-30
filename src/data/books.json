@@ -3,7 +3,7 @@
     "id": 1,
     "name": "线性代数 第三版",
     "price": 5,
-    "owner": "蔡旭",
+    "owner": "少华从文",
     "contact": "qq：1026343326",
     "imageUrl": "/Book_Selling_Platform/image/xianxing.jpeg",
     "note": ""
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "微积分学习指导 下册",
-    "price": 5,
+    "price": 7,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0748.jpeg",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "微积分下册 第四版",
-    "price": 5,
+    "price": 10,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0749.jpeg",
@@ -38,25 +38,25 @@
   {
     "id": 5,
     "name": "算法竞赛进阶指南",
-    "price": 5,
+    "price": 10,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0751.jpeg",
-    "note": ""
+    "note": "pdd影印版"
   },
   {
     "id": 6,
     "name": "算法竞赛 入门经典 第二版",
-    "price": 5,
+    "price": 20,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0752.jpeg",
-    "note": ""
+    "note": "pdd影印版"
   },
   {
     "id": 7,
     "name": "算法 橙书 第四版",
-    "price": 5,
+    "price": 20,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0753.jpeg",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "现代操作系统 大黑书",
-    "price": 5,
+    "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0755.jpeg",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "深入理解计算机系统 大黑书",
-    "price": 5,
+    "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0756.jpeg",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "算法导论 大黑书",
-    "price": 5,
+    "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0757.jpeg",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "name": "数据库课堂笔记",
-    "price": 5,
+    "price": 2,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0758.jpeg",
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "name": "组合数学 考试题",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0759.jpeg",
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "name": "C++ 面向对象真题 奔腾",
-    "price": 5,
+    "price": 2,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0761.jpeg",
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "name": "微积分AIII A3 作业+答案",
-    "price": 5,
+    "price": 2,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0764.jpeg",
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "name": "全国大学生数学竞赛备考冲刺讲义 非数 2023",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0763.jpeg",
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "name": "机器学习与R语言",
-    "price": 5,
+    "price": 10,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0765.jpeg",
@@ -164,7 +164,7 @@
   {
     "id": 19,
     "name": "C++常用函数",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0766.jpeg",
@@ -173,7 +173,7 @@
   {
     "id": 20,
     "name": "操作系统 历年真题 奔腾",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0767.jpeg",
@@ -191,7 +191,7 @@
   {
     "id": 22,
     "name": "JAVA 真题 奔腾",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0769.jpeg",
@@ -200,7 +200,7 @@
   {
     "id": 23,
     "name": "概率论与数理统计A 真题 奔腾",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0770.jpeg",
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "name": "C++ 面向对象程序设计真题 解忧",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0771.jpeg",
@@ -218,7 +218,7 @@
   {
     "id": 25,
     "name": "微积分作业AIII A3 答案",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0772.jpeg",
@@ -227,7 +227,7 @@
   {
     "id": 26,
     "name": "微积分作业AIII ",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0773.jpeg",
@@ -236,7 +236,7 @@
   {
     "id": 27,
     "name": "算法 真题",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0774.jpeg",
@@ -245,7 +245,7 @@
   {
     "id": 28,
     "name": "操作系统 真题 奔腾",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0775.jpeg",
@@ -254,7 +254,7 @@
   {
     "id": 29,
     "name": "微积分A2 作业 答案",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0776.jpeg",
@@ -263,7 +263,7 @@
   {
     "id": 30,
     "name": "离散数学II 2 历年真题 解忧",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0777.jpeg",
@@ -272,7 +272,7 @@
   {
     "id": 31,
     "name": "高数 AIII A3 历年真题",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0778.jpeg",
@@ -281,7 +281,7 @@
   {
     "id": 32,
     "name": "知识图谱概念与技术",
-    "price": 5,
+    "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0779.jpeg",
@@ -290,7 +290,7 @@
   {
     "id": 33,
     "name": "大话数据结构",
-    "price": 5,
+    "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0780.jpeg",
@@ -299,7 +299,7 @@
   {
     "id": 34,
     "name": "自我突围 施一公 亲笔签名版",
-    "price": 5,
+    "price": 50,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0781.jpeg",
@@ -308,7 +308,7 @@
   {
     "id": 35,
     "name": "算法图解",
-    "price": 5,
+    "price": 10,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0783.jpeg",
@@ -317,7 +317,7 @@
   {
     "id": 36,
     "name": "Linux 真题 奔腾",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0784.jpeg",
@@ -326,7 +326,7 @@
   {
     "id": 37,
     "name": "设计模式 真题 奔腾",
-    "price": 5,
+    "price": 2,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0785.jpeg",
@@ -339,12 +339,12 @@
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0786.jpeg",
-    "note": "影印版"
+    "note": "影印版 能看但是质量较差"
   },
   {
     "id": 39,
     "name": "数据库系统概念 大黑书",
-    "price": 5,
+    "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0787.jpeg",
@@ -353,7 +353,7 @@
   {
     "id": 40,
     "name": "计算机科学导论 大黑书",
-    "price": 5,
+    "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0788.jpeg",
@@ -407,7 +407,7 @@
   {
     "id": 46,
     "name": "Java 编程思想 大黑书",
-    "price": 5,
+    "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0794.jpeg",
@@ -425,7 +425,7 @@
   {
     "id": 48,
     "name": "算法笔记 上机训练实战指南",
-    "price": 5,
+    "price": 10,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0796.jpeg",
@@ -443,7 +443,7 @@
   {
     "id": 50,
     "name": "自然语言处理",
-    "price": 5,
+    "price": 15,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0798.jpeg",
@@ -452,7 +452,7 @@
   {
     "id": 51,
     "name": "数据库 真题 奔腾",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0799.jpeg",
@@ -470,7 +470,7 @@
   {
     "id": 53,
     "name": "计算机网络",
-    "price": 5,
+    "price": 10,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0801.jpeg",
@@ -479,7 +479,7 @@
   {
     "id": 54,
     "name": "算法笔记",
-    "price": 5,
+    "price": 10,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0802.jpeg",
@@ -488,7 +488,7 @@
   {
     "id": 55,
     "name": "计算机网络 真题 奔腾",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0803.jpeg",
@@ -497,7 +497,7 @@
   {
     "id": 56,
     "name": "计算机网络 真题 奔腾",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0804.jpeg",
@@ -515,7 +515,7 @@
   {
     "id": 58,
     "name": "C语言题库",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0806.jpeg",
@@ -524,7 +524,7 @@
   {
     "id": 59,
     "name": "微积分作业AII",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0807.jpeg",
@@ -533,7 +533,7 @@
   {
     "id": 60,
     "name": "空间解析几何历年真题",
-    "price": 5,
+    "price": 2,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0808.jpeg",
@@ -542,7 +542,7 @@
   {
     "id": 61,
     "name": "微积分AII 历年真题 解忧",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0810.jpeg",
@@ -668,7 +668,7 @@
   {
     "id": 75,
     "name": "不就是语法和长难句嘛？",
-    "price": 5,
+    "price": 1,
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0825.jpeg",
