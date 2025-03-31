@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Book_Selling_Platform/static/css/main.3d2a24cd.css",
-    "main.js": "/Book_Selling_Platform/static/js/main.211e8281.js",
+    "main.css": "/Book_Selling_Platform/static/css/main.42c9c257.css",
+    "main.js": "/Book_Selling_Platform/static/js/main.1335b195.js",
     "index.html": "/Book_Selling_Platform/index.html",
-    "main.3d2a24cd.css.map": "/Book_Selling_Platform/static/css/main.3d2a24cd.css.map",
-    "main.211e8281.js.map": "/Book_Selling_Platform/static/js/main.211e8281.js.map"
+    "main.42c9c257.css.map": "/Book_Selling_Platform/static/css/main.42c9c257.css.map",
+    "main.1335b195.js.map": "/Book_Selling_Platform/static/js/main.1335b195.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d2a24cd.css",
-    "static/js/main.211e8281.js"
+    "static/css/main.42c9c257.css",
+    "static/js/main.1335b195.js"
   ]
 }
