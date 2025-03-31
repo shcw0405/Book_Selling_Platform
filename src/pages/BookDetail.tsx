@@ -73,6 +73,7 @@ const BookDetail: React.FC = () => {
                 <img
                   src={getImageSrc(book.imageUrl)}
                   alt={book.name}
+                  loading="lazy"
                   style={{
                     width: "100%",
                     borderRadius: "8px",
