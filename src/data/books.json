@@ -144,15 +144,6 @@
     "note": ""
   },
   {
-    "id": 20,
-    "name": "操作系统 历年真题 奔腾",
-    "price": 1,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0767.jpeg",
-    "note": ""
-  },
-  {
     "id": 21,
     "name": "线性代数 习题课教程 第三版",
     "price": 5,
@@ -207,15 +198,6 @@
     "note": ""
   },
   {
-    "id": 27,
-    "name": "算法 真题",
-    "price": 1,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0774.jpeg",
-    "note": ""
-  },
-  {
     "id": 28,
     "name": "操作系统 真题 奔腾",
     "price": 1,
@@ -249,24 +231,6 @@
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0778.jpeg",
-    "note": ""
-  },
-  {
-    "id": 33,
-    "name": "大话数据结构",
-    "price": 15,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0780.jpeg",
-    "note": ""
-  },
-  {
-    "id": 35,
-    "name": "算法图解",
-    "price": 10,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0783.jpeg",
     "note": ""
   },
   {
@@ -348,15 +312,6 @@
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0793.jpeg",
-    "note": ""
-  },
-  {
-    "id": 46,
-    "name": "Java 编程思想 大黑书",
-    "price": 15,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0794.jpeg",
     "note": ""
   },
   {
