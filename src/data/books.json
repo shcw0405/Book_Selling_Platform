@@ -72,15 +72,6 @@
     "note": ""
   },
   {
-    "id": 12,
-    "name": "数据库课堂笔记",
-    "price": 2,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0758.jpeg",
-    "note": ""
-  },
-  {
     "id": 13,
     "name": "组合数学 考试题",
     "price": 1,
@@ -114,15 +105,6 @@
     "owner": "少华从文",
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0764.jpeg",
-    "note": ""
-  },
-  {
-    "id": 17,
-    "name": "全国大学生数学竞赛备考冲刺讲义 非数 2023",
-    "price": 1,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0763.jpeg",
     "note": ""
   },
   {
@@ -250,15 +232,6 @@
     "contact": "QQ: 1026343326",
     "imageUrl": "/Book_Selling_Platform/image/IMG_0785.jpeg",
     "note": ""
-  },
-  {
-    "id": 38,
-    "name": "深入浅出程序设计竞赛 基础版",
-    "price": 5,
-    "owner": "少华从文",
-    "contact": "QQ: 1026343326",
-    "imageUrl": "/Book_Selling_Platform/image/IMG_0786.jpeg",
-    "note": "影印版 能看但是质量较差"
   },
   {
     "id": 39,
